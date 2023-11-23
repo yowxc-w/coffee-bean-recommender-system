@@ -1,15 +1,15 @@
 # Coffee Bean Recommender System
 
 Data Source:
+- beanshipper.com (coffee beans' tags, descriptions, and reviews)
+- worldcoffeeresearch.org/resources/sensory-lexicon (pdf, coffee flavor attributes)
 
-beanshipper.com (coffee beans' tags, descriptions, and reviews)
+<br/>
+Architecture
 
-worldcoffeeresearch.org/resources/sensory-lexicon (coffee flavor attributes)
+<img src='/SystemArchitecture.png' width=300/>
 
-
-Infrastructure
-
-
+<br/>
 Web App Interface
 
 <img src='/WebAppInterface.png' width=500/>
